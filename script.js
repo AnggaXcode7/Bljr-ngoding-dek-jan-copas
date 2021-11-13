@@ -27,9 +27,9 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "first song",
-     path: "music/song1.mp3",
-     img: "img/img1.jpg",
+     name: "By Angga",
+     path: "music/kangcopas.mp3",
+     img: "img/dek.jpg",
      singer: "1"
    },
    {
